@@ -1,7 +1,7 @@
 # Selenium QA Learning 
 
 This is a display of my QA learning journey.  
-It automates a simple login functionality using Selenium WebDriver, TestNG, and WebDriverManager.
+It automates testing a simple login functionality using Selenium WebDriver, TestNG, and WebDriverManager.
 
 ## Tech Stack
 - Java 21
